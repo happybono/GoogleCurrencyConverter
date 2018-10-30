@@ -1,2 +1,2 @@
 # CurrencyConverter
-Currency converter using Google Currency API
+[Deprecated] Currency converter using Google Currency API
